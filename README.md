@@ -12,6 +12,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript 灵魂拷问](https://canace.site/2021/02/03/JavaScript%E7%81%B5%E9%AD%82%E6%8B%B7%E9%97%AE/)
 - [特浓鸡汤](https://canace.site/2021/01/29/%E7%89%B9%E6%B5%93%E9%B8%A1%E6%B1%A4/)
 - [图片懒加载实现](https://canace.site/2021/01/27/%E5%9B%BE%E7%89%87%E6%87%92%E5%8A%A0%E8%BD%BD%E5%AE%9E%E7%8E%B0/)
 - [Lodash 源码解析 —— Slice](https://canace.site/2021/01/26/lodash%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%E2%80%94%E2%80%94array-slice/)
@@ -21,7 +22,6 @@ The content below is my new blog
 - [Windows 奇技淫巧](https://canace.site/2020/12/04/win%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A7/)
 - [CSS 小技巧](https://canace.site/2020/11/28/CSS-%E5%B0%8F%E6%8A%80%E5%B7%A7/)
 - [开始用 Beego 写 Http 服务](https://canace.site/2020/11/27/beego%E4%B8%8A%E6%89%8B/)
-- [Egg 快速上手](https://canace.site/2020/11/27/egg/)
 <!-- BLOG-POST-LIST:END -->
 
 

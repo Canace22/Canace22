@@ -24,5 +24,9 @@ The content below is my new blog
 - [Git 文档](https://canace.site/2020/10/10/git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/)
 <!-- BLOG-POST-LIST:END -->
 
+![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canace22&count_private=true&layout=compact)
+
 
 

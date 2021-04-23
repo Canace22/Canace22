@@ -11,6 +11,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Js 字符串转 Base64](https://canace.site/js-%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%ACbase64/)
 - [Web 安全——CSRF](https://canace.site/web%E5%AE%89%E5%85%A8-CSRF/)
 - [关于健忘那些事](https://canace.site/%E5%85%B3%E4%BA%8E%E5%81%A5%E5%BF%98%E9%82%A3%E4%BA%9B%E4%BA%8B/)
 - [网页性能优化-防抖](https://canace.site/%E7%BD%91%E9%A1%B5%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96-%E9%98%B2%E6%8A%96/)
@@ -20,7 +21,6 @@ The content below is my new blog
 - [说说浏览器缓存机制](https://canace.site/%E8%AF%B4%E8%AF%B4%E6%B5%8F%E8%A7%88%E5%99%A8%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6/)
 - [关于跨域那些事](https://canace.site/%E8%B7%A8%E5%9F%9F%E8%B5%84%E6%BA%90%E5%85%B1%E4%BA%AB/)
 - [认识 Cookie](https://canace.site/%E8%AE%A4%E8%AF%86Cookie/)
-- [使用 Github Action 编译 Vue 发布到 Github Page](https://canace.site/github-action%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2page/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

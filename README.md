@@ -11,6 +11,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [关于做技术这件事](https://canace.site/%E5%85%B3%E4%BA%8E%E5%81%9A%E6%8A%80%E6%9C%AF%E8%BF%99%E4%BB%B6%E4%BA%8B/)
 - [Vue 数据驱动视图更新实现](https://canace.site/vue-%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8%E8%A7%86%E5%9B%BE%E5%AE%9E%E7%8E%B0/)
 - [JavaScript 事件循环](https://canace.site/javascript-%E4%BA%8B%E4%BB%B6%E5%BE%AA%E7%8E%AF/)
 - [JavaScript New 关键字的实现原理](https://canace.site/javascript-new%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86/)
@@ -20,7 +21,6 @@ The content below is my new blog
 - [网页性能优化-防抖](https://canace.site/%E7%BD%91%E9%A1%B5%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96-%E9%98%B2%E6%8A%96/)
 - [Webpack 动态修改资源域名](https://canace.site/webpack%E5%8A%A8%E6%80%81%E4%BF%AE%E6%94%B9%E8%B5%84%E6%BA%90%E5%9F%9F%E5%90%8D/)
 - [二分查找](https://canace.site/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/)
-- [CSS 常用布局及解决方案](https://canace.site/css%E5%B8%83%E5%B1%80%E7%AF%87/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

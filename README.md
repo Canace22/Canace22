@@ -11,6 +11,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [2021 生日寄语](https://canace.site/2021%E7%94%9F%E6%97%A5%E5%AF%84%E8%AF%AD/)
 - [CSS 实现圆环进度条](https://canace.site/css%E5%AE%9E%E7%8E%B0%E5%9C%86%E7%8E%AF%E8%BF%9B%E5%BA%A6%E6%9D%A1/)
 - [理解 Instanceof](https://canace.site/%E7%90%86%E8%A7%A3instanceof/)
 - [禁止图片拖动](https://canace.site/%E7%A6%81%E6%AD%A2%E5%9B%BE%E7%89%87%E6%8B%96%E5%8A%A8/)
@@ -20,7 +21,6 @@ The content below is my new blog
 - [CSS 常用布局及解决方案](https://canace.site/css%E5%B8%83%E5%B1%80%E7%AF%87/)
 - [我辞职了](https://canace.site/%E6%88%91%E8%BE%9E%E8%81%8C%E4%BA%86/)
 - [setTimeout 模拟 setInterval](https://canace.site/setTimeout%E6%A8%A1%E6%8B%9FsetInterval/)
-- [解决 Github Dns 污染问题](https://canace.site/%E8%A7%A3%E5%86%B3github-dns%E6%B1%A1%E6%9F%93%E9%97%AE%E9%A2%98/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

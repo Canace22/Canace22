@@ -11,6 +11,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [原地删除数组中的重复值](https://canace.site/removeDuplicates/)
 - [Prisma 入门指南](https://canace.site/prisma%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/)
 - [Docker 打包本地 Web 项目发布到服务端](https://canace.site/docker%E6%96%87%E6%A1%A3/)
 - [Ffmpeg 抽取视频音轨](https://canace.site/ffmpeg%E6%8A%BD%E5%8F%96%E8%A7%86%E9%A2%91%E9%9F%B3%E8%BD%A8/)
@@ -20,7 +21,6 @@ The content below is my new blog
 - [Vue 你这是怎么了](https://canace.site/Vue%E6%80%8E%E4%B9%88%E4%BA%86/)
 - [KPI vs OKR](https://canace.site/kpi-vs-okr/)
 - [关于广告拦截插件的一些思考](https://canace.site/%E5%85%B3%E4%BA%8E%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E6%8F%92%E4%BB%B6%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/)
-- [nodeJs 模块机制](https://canace.site/nodeJs%E6%A8%A1%E5%9D%97%E6%9C%BA%E5%88%B6/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

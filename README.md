@@ -11,6 +11,8 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [知识焦虑](https://canace.site/%E7%9F%A5%E8%AF%86%E7%84%A6%E8%99%91/)
+- [WebRTC](https://canace.site/WebRTC/)
 - [原地删除数组中的重复值](https://canace.site/removeDuplicates/)
 - [Prisma 入门指南](https://canace.site/prisma%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/)
 - [Docker 打包本地 Web 项目发布到服务端](https://canace.site/docker%E6%96%87%E6%A1%A3/)
@@ -19,8 +21,6 @@ The content below is my new blog
 - [校验字符串是否有意义](https://canace.site/%E6%A0%A1%E9%AA%8C%E5%AD%97%E7%AC%A6%E4%B8%B2/)
 - [Ant-Design-Vue 那些坑](https://canace.site/ant-design%E9%82%A3%E4%BA%9B%E5%9D%91/)
 - [Vue 你这是怎么了](https://canace.site/Vue%E6%80%8E%E4%B9%88%E4%BA%86/)
-- [KPI vs OKR](https://canace.site/kpi-vs-okr/)
-- [关于广告拦截插件的一些思考](https://canace.site/%E5%85%B3%E4%BA%8E%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E6%8F%92%E4%BB%B6%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

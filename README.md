@@ -11,6 +11,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [关于分支管理的一点感想](https://canace.site/%E5%85%B3%E4%BA%8E%E5%88%86%E6%94%AF%E7%AE%A1%E7%90%86%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%83%B3/)
 - [使用 Docker 配置前端环境](https://canace.site/docker%E9%85%8D%E7%BD%AE%E5%89%8D%E7%AB%AF%E7%8E%AF%E5%A2%83/)
 - [知识焦虑](https://canace.site/%E7%9F%A5%E8%AF%86%E7%84%A6%E8%99%91/)
 - [WebRTC](https://canace.site/WebRTC/)
@@ -20,7 +21,6 @@ The content below is my new blog
 - [Ffmpeg 抽取视频音轨](https://canace.site/ffmpeg%E6%8A%BD%E5%8F%96%E8%A7%86%E9%A2%91%E9%9F%B3%E8%BD%A8/)
 - [晨跑](https://canace.site/%E6%99%A8%E8%B7%91%E7%AC%AC%E4%B8%80%E5%A4%A9/)
 - [校验字符串是否有意义](https://canace.site/%E6%A0%A1%E9%AA%8C%E5%AD%97%E7%AC%A6%E4%B8%B2/)
-- [Ant-Design-Vue 那些坑](https://canace.site/ant-design%E9%82%A3%E4%BA%9B%E5%9D%91/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

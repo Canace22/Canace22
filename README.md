@@ -11,6 +11,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Mac 调试 Ios 真机上 Web 网页的方法](https://canace.site/mac%E8%B0%83%E8%AF%95ios%E7%9C%9F%E6%9C%BA%E4%B8%8Aweb%E7%BD%91%E9%A1%B5%E7%9A%84%E6%96%B9%E6%B3%95/)
 - [浅谈可视化表单设计](https://canace.site/%E6%B5%85%E8%B0%88%E5%8F%AF%E8%A7%86%E5%8C%96%E8%A1%A8%E5%8D%95%E8%AE%BE%E8%AE%A1/)
 - [关于分支管理的一点感想](https://canace.site/%E5%85%B3%E4%BA%8E%E5%88%86%E6%94%AF%E7%AE%A1%E7%90%86%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%83%B3/)
 - [使用 Docker 配置前端环境](https://canace.site/docker%E9%85%8D%E7%BD%AE%E5%89%8D%E7%AB%AF%E7%8E%AF%E5%A2%83/)
@@ -20,7 +21,6 @@ The content below is my new blog
 - [Prisma 入门指南](https://canace.site/prisma%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/)
 - [Docker 打包本地 Web 项目发布到服务端](https://canace.site/docker%E6%96%87%E6%A1%A3/)
 - [Ffmpeg 抽取视频音轨](https://canace.site/ffmpeg%E6%8A%BD%E5%8F%96%E8%A7%86%E9%A2%91%E9%9F%B3%E8%BD%A8/)
-- [晨跑](https://canace.site/%E6%99%A8%E8%B7%91%E7%AC%AC%E4%B8%80%E5%A4%A9/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

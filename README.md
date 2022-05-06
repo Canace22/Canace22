@@ -11,6 +11,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [文字走马灯实现](https://canace.site/%E6%96%87%E5%AD%97%E8%B5%B0%E9%A9%AC%E7%81%AF%E5%AE%9E%E7%8E%B0/)
 - [第一期：一周碎碎念](https://canace.site/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%BC%80%E5%A7%8B%E5%86%99%E8%BF%99%E4%B8%AA%E7%B3%BB%E5%88%97%E7%9A%84%E6%9D%82%E6%96%87/)
 - [MAC 调试 IOS 真机上 Web 网页的方法](https://canace.site/mac%E8%B0%83%E8%AF%95ios%E7%9C%9F%E6%9C%BA%E4%B8%8Aweb%E7%BD%91%E9%A1%B5%E7%9A%84%E6%96%B9%E6%B3%95/)
 - [浅谈可视化表单设计](https://canace.site/%E6%B5%85%E8%B0%88%E5%8F%AF%E8%A7%86%E5%8C%96%E8%A1%A8%E5%8D%95%E8%AE%BE%E8%AE%A1/)
@@ -20,7 +21,6 @@ The content below is my new blog
 - [WebRTC](https://canace.site/WebRTC/)
 - [原地删除数组中的重复值](https://canace.site/removeDuplicates/)
 - [Prisma 入门指南](https://canace.site/prisma%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/)
-- [Docker 打包本地 Web 项目发布到服务端](https://canace.site/docker%E6%96%87%E6%A1%A3/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

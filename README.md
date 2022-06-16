@@ -11,6 +11,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript 奇技淫巧](https://canace.site/JavaScript%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A7/)
 - [第二期：一周碎碎念](https://canace.site/issue-2/)
 - [第一期：一周碎碎念](https://canace.site/issue-1/)
 - [MAC 调试 IOS 真机上 Web 网页的方法](https://canace.site/mac%E8%B0%83%E8%AF%95ios%E7%9C%9F%E6%9C%BA%E4%B8%8Aweb%E7%BD%91%E9%A1%B5%E7%9A%84%E6%96%B9%E6%B3%95/)
@@ -20,7 +21,6 @@ The content below is my new blog
 - [知识焦虑](https://canace.site/%E7%9F%A5%E8%AF%86%E7%84%A6%E8%99%91/)
 - [WebRTC](https://canace.site/WebRTC/)
 - [原地删除数组中的重复值](https://canace.site/removeDuplicates/)
-- [Prisma 入门指南](https://canace.site/prisma%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

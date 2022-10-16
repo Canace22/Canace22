@@ -11,16 +11,16 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
-- [第六期：一周碎碎念](https://canace.site/issue-06/)
+- [Vol.07：假如再给我七天假期我想做什么](https://canace.site/issue-07/)
+- [程序生涯](https://canace.site/%E7%A8%8B%E5%BA%8F%E7%94%9F%E6%B6%AF/)
+- [Vol.06：羊了个羊为什么会火起来](https://canace.site/issue-06/)
 - [字符串与代码的严谨性](https://canace.site/%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%8E%E4%BB%A3%E7%A0%81%E7%9A%84%E4%B8%A5%E8%B0%A8%E6%80%A7/)
 - [JavaScript 在 V8 引擎浏览器上是怎么执行的](https://canace.site/JS%E6%89%A7%E8%A1%8C/)
-- [第五期：一周碎碎念](https://canace.site/issue-05/)
-- [第四期：一周碎碎念](https://canace.site/issue-04/)
+- [Vol.05：阅读的艺术](https://canace.site/issue-05/)
+- [Vol.04：子非鱼，安知鱼之乐也](https://canace.site/issue-04/)
 - [获取 DOM Style 的正确姿势](https://canace.site/get-css-style/)
-- [第三期：一周碎碎念](https://canace.site/issue-03/)
+- [Vol.03：关于职业选择](https://canace.site/issue-03/)
 - [函数柯里化](https://canace.site/%E5%87%BD%E6%95%B0%E6%9F%AF%E9%87%8C%E5%8C%96/)
-- [JavaScript 奇技淫巧](https://canace.site/JavaScript%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A7/)
-- [第二期：一周碎碎念](https://canace.site/issue-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

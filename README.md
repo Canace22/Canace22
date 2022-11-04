@@ -4,7 +4,6 @@
 
 Here are a few things that describe me:
 
-- 💼&nbsp;&nbsp; I'm currently working full-time at [Seasun](https://www.xishanju.com/) as a web developer
 - 📝&nbsp;&nbsp; I maintain a web development blog at [canace.site](https://canace.site/)
 - ⌨️&nbsp;&nbsp; I spend most of my time writing JavaScript on the front-end, sometimes witing back-end whith Go or Node
 

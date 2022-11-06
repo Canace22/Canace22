@@ -10,8 +10,8 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Vol.08：无论男女都应当追求些什么](https://canace.site/issue-08/)
 - [Vol.07：假如再给我七天假期我想做什么](https://canace.site/issue-07/)
-- [程序生涯](https://canace.site/%E7%A8%8B%E5%BA%8F%E7%94%9F%E6%B6%AF/)
 - [Vol.06：羊了个羊为什么会火起来](https://canace.site/issue-06/)
 - [字符串与代码的严谨性](https://canace.site/%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%8E%E4%BB%A3%E7%A0%81%E7%9A%84%E4%B8%A5%E8%B0%A8%E6%80%A7/)
 - [JavaScript 在 V8 引擎浏览器上是怎么执行的](https://canace.site/JS%E6%89%A7%E8%A1%8C/)

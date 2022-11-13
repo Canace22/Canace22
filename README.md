@@ -10,6 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Vol.09：原来我也可以](https://canace.site/issue-09/)
 - [Vol.08：无论男女都应当追求些什么](https://canace.site/issue-08/)
 - [Vol.07：假如再给我七天假期我想做什么](https://canace.site/issue-07/)
 - [Vol.06：羊了个羊为什么会火起来](https://canace.site/issue-06/)
@@ -19,7 +20,6 @@ The content below is my new blog
 - [Vol.04：子非鱼，安知鱼之乐也](https://canace.site/issue-04/)
 - [获取 DOM Style 的正确姿势](https://canace.site/get-css-style/)
 - [Vol.03：关于职业选择](https://canace.site/issue-03/)
-- [函数柯里化](https://canace.site/%E5%87%BD%E6%95%B0%E6%9F%AF%E9%87%8C%E5%8C%96/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

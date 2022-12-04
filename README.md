@@ -10,6 +10,8 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Vol.10：直面死亡](https://canace.site/issue-10/)
+- [认识字节序](https://canace.site/%E8%AE%A4%E8%AF%86%E5%AD%97%E8%8A%82%E5%BA%8F/)
 - [Vol.09：原来我也可以](https://canace.site/issue-09/)
 - [Vol.08：无论男女都应当追求些什么](https://canace.site/issue-08/)
 - [Vol.07：假如再给我七天假期我想做什么](https://canace.site/issue-07/)
@@ -18,8 +20,6 @@ The content below is my new blog
 - [JavaScript 在 V8 引擎浏览器上是怎么执行的](https://canace.site/JS%E6%89%A7%E8%A1%8C/)
 - [Vol.05：阅读的艺术](https://canace.site/issue-05/)
 - [Vol.04：子非鱼，安知鱼之乐也](https://canace.site/issue-04/)
-- [获取 DOM Style 的正确姿势](https://canace.site/get-css-style/)
-- [Vol.03：关于职业选择](https://canace.site/issue-03/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

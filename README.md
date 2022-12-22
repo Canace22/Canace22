@@ -10,6 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [构建 TypeScript 库](https://canace.site/%E6%9E%84%E5%BB%BAts%E5%BA%93/)
 - [Vol.10：直面死亡](https://canace.site/issue-10/)
 - [认识字节序](https://canace.site/%E8%AE%A4%E8%AF%86%E5%AD%97%E8%8A%82%E5%BA%8F/)
 - [Vol.09：原来我也可以](https://canace.site/issue-09/)
@@ -19,7 +20,6 @@ The content below is my new blog
 - [字符串与代码的严谨性](https://canace.site/%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%8E%E4%BB%A3%E7%A0%81%E7%9A%84%E4%B8%A5%E8%B0%A8%E6%80%A7/)
 - [JavaScript 在 V8 引擎浏览器上是怎么执行的](https://canace.site/JS%E6%89%A7%E8%A1%8C/)
 - [Vol.05：阅读的艺术](https://canace.site/issue-05/)
-- [Vol.04：子非鱼，安知鱼之乐也](https://canace.site/issue-04/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

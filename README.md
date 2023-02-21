@@ -10,6 +10,9 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [软件开发随想](https://canace.site/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E9%9A%8F%E6%83%B3/)
+- [前端 XX Docker 化](https://canace.site/%E5%89%8D%E7%AB%AF_xx_docker%E5%8C%96/)
+- [Docker 打包本地 Web 项目发布到服务端](https://canace.site/docker%E6%96%87%E6%A1%A3/)
 - [构建 TypeScript 库](https://canace.site/%E6%9E%84%E5%BB%BAts%E5%BA%93/)
 - [Vol.10：直面死亡](https://canace.site/issue-10/)
 - [认识字节序](https://canace.site/%E8%AE%A4%E8%AF%86%E5%AD%97%E8%8A%82%E5%BA%8F/)
@@ -17,9 +20,6 @@ The content below is my new blog
 - [Vol.08：无论男女都应当追求些什么](https://canace.site/issue-08/)
 - [Vol.07：假如再给我七天假期我想做什么](https://canace.site/issue-07/)
 - [Vol.06：羊了个羊为什么会火起来](https://canace.site/issue-06/)
-- [字符串与代码的严谨性](https://canace.site/%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%8E%E4%BB%A3%E7%A0%81%E7%9A%84%E4%B8%A5%E8%B0%A8%E6%80%A7/)
-- [JavaScript 在 V8 引擎浏览器上是怎么执行的](https://canace.site/JS%E6%89%A7%E8%A1%8C/)
-- [Vol.05：阅读的艺术](https://canace.site/issue-05/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

@@ -10,6 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [森林里的蚂蚁和吵架的大象夫妇](https://canace.site/%E8%9A%82%E8%9A%81/)
 - [Vue3 实战笔记](https://canace.site/vue3-notes/)
 - [Vol.11：对五年工作的复盘](https://canace.site/issue-11/)
 - [时区、时间戳？](https://canace.site/js%E6%97%B6%E5%8C%BA/)
@@ -19,7 +20,6 @@ The content below is my new blog
 - [Vol.10：直面死亡](https://canace.site/issue-10/)
 - [认识字节序](https://canace.site/%E8%AE%A4%E8%AF%86%E5%AD%97%E8%8A%82%E5%BA%8F/)
 - [Vol.09：原来我也可以](https://canace.site/issue-09/)
-- [Vol.08：无论男女都应当追求些什么](https://canace.site/issue-08/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

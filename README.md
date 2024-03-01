@@ -10,6 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript 自带的对象深拷贝方法](https://canace.site/JavaScript%E8%87%AA%E5%B8%A6%E7%9A%84%E5%AF%B9%E8%B1%A1%E6%B7%B1%E6%8B%B7%E8%B4%9D%E6%96%B9%E6%B3%95/)
 - [浅谈 DNS 污染](https://canace.site/%E6%B5%85%E8%B0%88DNS%E6%B1%A1%E6%9F%93/)
 - [Vol.12：我们的上限在哪里](https://canace.site/issue-12/)
 - [森林里的蚂蚁和吵架的大象夫妇](https://canace.site/%E8%9A%82%E8%9A%81/)
@@ -19,7 +20,6 @@ The content below is my new blog
 - [前端 XX Docker 化](https://canace.site/%E5%89%8D%E7%AB%AF_xx_docker%E5%8C%96/)
 - [Docker 打包本地 Web 项目发布到服务端](https://canace.site/docker%E6%96%87%E6%A1%A3/)
 - [构建 TypeScript 库](https://canace.site/%E6%9E%84%E5%BB%BAts%E5%BA%93/)
-- [Vol.10：直面死亡](https://canace.site/issue-10/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

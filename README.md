@@ -10,6 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [变数](https://canace.site/%E5%8F%98%E6%95%B0/)
 - [我们为什么需要阅读](https://canace.site/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E9%98%85%E8%AF%BB/)
 - [JavaScript 如何判断用户是否打开了大写键盘](https://canace.site/JavaScript%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E7%94%A8%E6%88%B7%E6%98%AF%E5%90%A6%E6%89%93%E5%BC%80%E4%BA%86%E5%A4%A7%E5%86%99%E9%94%AE%E7%9B%98/)
 - [Element-Plus 缩放问题解决](https://canace.site/element-plus-table-%E7%BB%84%E4%BB%B6%E7%BC%A9%E6%94%BE%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/)
@@ -19,7 +20,6 @@ The content below is my new blog
 - [浅谈 DNS 污染](https://canace.site/%E6%B5%85%E8%B0%88DNS%E6%B1%A1%E6%9F%93/)
 - [Vol.12：我们的上限在哪里](https://canace.site/issue-12/)
 - [森林里的蚂蚁和吵架的大象夫妇](https://canace.site/%E8%9A%82%E8%9A%81/)
-- [Vue3 实战笔记](https://canace.site/vue3-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

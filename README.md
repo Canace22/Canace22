@@ -10,6 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [浏览器页面跳转至文章指定位置的方法探究](https://canace.site/%E8%B7%B3%E8%BD%AC%E5%88%B0%E6%96%87%E7%AB%A0%E6%8C%87%E5%AE%9A%E4%BD%8D%E7%BD%AE%E7%9A%84%E6%96%B9%E5%BC%8F/)
 - [善意](https://canace.site/%E5%96%84%E6%84%8F/)
 - [经验之谈](https://canace.site/%E7%BB%8F%E9%AA%8C%E4%B9%8B%E8%B0%88/)
 - [变数](https://canace.site/%E5%8F%98%E6%95%B0/)
@@ -19,7 +20,6 @@ The content below is my new blog
 - [统计数组对象的元素总数](https://canace.site/%E7%BB%9F%E8%AE%A1%E6%95%B0%E7%BB%84%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%85%83%E7%B4%A0%E6%80%BB%E6%95%B0/)
 - [去除数组对象中与子节点Id重复的父节点](https://canace.site/%E5%8E%BB%E9%99%A4%E6%95%B0%E7%BB%84%E5%AF%B9%E8%B1%A1%E4%B8%AD%E4%B8%8E%E5%AD%90%E8%8A%82%E7%82%B9id%E9%87%8D%E5%A4%8D%E7%9A%84%E7%88%B6%E8%8A%82%E7%82%B9/)
 - [JavaScript 自带的对象深拷贝方法](https://canace.site/JavaScript%E8%87%AA%E5%B8%A6%E7%9A%84%E5%AF%B9%E8%B1%A1%E6%B7%B1%E6%8B%B7%E8%B4%9D%E6%96%B9%E6%B3%95/)
-- [浅谈 DNS 污染](https://canace.site/%E6%B5%85%E8%B0%88DNS%E6%B1%A1%E6%9F%93/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

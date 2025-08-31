@@ -10,7 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Notion+Chrome 书签打造个人知识库](https://canace.site/%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E5%BA%93/)
+- [Notion+Chrome书签打造个人知识库](https://canace.site/%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E5%BA%93/)
 - [Vol15：初创项目/产品，怎么做用户留存](https://canace.site/issue-15/)
 - [Vol14：如何延长下班时间](https://canace.site/issue-14/)
 - [Vol.13：科幻电影照进现实](https://canace.site/issue-13/)

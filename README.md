@@ -10,6 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [你不是在面试，你是在为职位试镜](https://canace.site/interviewStrategy/)
 - [首次尝试95%都是垃圾：一位工程师使用Claude Code的6周之旅](https://canace.site/translateUseClaudeCode/)
 - [Notion+Chrome书签打造个人知识库](https://canace.site/%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E5%BA%93/)
 - [Vol15：初创项目/产品，怎么做用户留存](https://canace.site/issue-15/)
@@ -19,7 +20,6 @@ The content below is my new blog
 - [Web端版本更新弹窗实现](https://canace.site/%E7%BD%91%E9%A1%B5%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%E5%BC%B9%E7%AA%97%E5%AE%9E%E7%8E%B0/)
 - [常用的Unix终端命令](https://canace.site/%E5%B8%B8%E7%94%A8%E7%BB%88%E7%AB%AF%E5%91%BD%E4%BB%A4/)
 - [Node.js 版本管理工具概览](https://canace.site/node%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/)
-- [2024年终总结](https://canace.site/2024%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

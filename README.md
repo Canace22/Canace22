@@ -10,6 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [我们是否需要AI知识库](https://canace.site/AI-knowledge-base/)
 - [常用开发提示词整理](https://canace.site/common-programming-prompt-words/)
 - [博客文章分类](https://canace.site/blog-category/)
 - [你不是在面试，你是在为职位试镜](https://canace.site/interview-strategy/)
@@ -19,7 +20,6 @@ The content below is my new blog
 - [Vol14：如何延长下班时间](https://canace.site/issue-14/)
 - [Vol.13：科幻电影照进现实](https://canace.site/issue-13/)
 - [用 Cursor 提高工作效率实战笔记](https://canace.site/improve-work-efficiency-with-cursor-practical-notes/)
-- [Web端版本更新弹窗实现](https://canace.site/webpage-version-update-popup-implementation/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

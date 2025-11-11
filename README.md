@@ -13,7 +13,7 @@ The content below is my new blog
 - [工作与事业](https://canace.site/work-for/)
 - [浏览器渲染原理概述](https://canace.site/how-to-optimize-animation/)
 - [我们是否需要AI知识库](https://canace.site/AI-knowledge-base/)
-- [常用开发提示词整理](https://canace.site/common-programming-prompt-words/)
+- [常用开发提示词](https://canace.site/common-programming-prompt-words/)
 - [博客文章分类](https://canace.site/blog-category/)
 - [你不是在面试，你是在为职位试镜](https://canace.site/interview-strategy/)
 - [首次尝试95%都是垃圾：一位工程师使用Claude Code的6周之旅](https://canace.site/translate-use-claude-code/)

@@ -10,6 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [如何做AI角色分工：我的应用心得](https://canace.site/ai-worker/)
 - [工作与事业](https://canace.site/work-for/)
 - [浏览器渲染原理概述](https://canace.site/how-to-optimize-animation/)
 - [我们是否需要AI知识库](https://canace.site/AI-knowledge-base/)
@@ -19,7 +20,6 @@ The content below is my new blog
 - [首次尝试95%都是垃圾：一位工程师使用Claude Code的6周之旅](https://canace.site/translate-use-claude-code/)
 - [Notion+Chrome书签打造个人知识库](https://canace.site/personal-knowledge-base/)
 - [Vol15：初创项目/产品，怎么做用户留存](https://canace.site/issue-15/)
-- [Vol14：如何延长下班时间](https://canace.site/issue-14/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

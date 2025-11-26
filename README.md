@@ -10,6 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [为什么AI大模型需要“显卡”？TPU、GPU与AMD之间有什么区别？](https://canace.site/why-graphics-card/)
 - [如何做AI角色分工：我的应用心得](https://canace.site/ai-worker/)
 - [工作与事业](https://canace.site/work-for/)
 - [浏览器渲染原理概述](https://canace.site/how-to-optimize-animation/)
@@ -19,7 +20,6 @@ The content below is my new blog
 - [你不是在面试，你是在为职位试镜](https://canace.site/interview-strategy/)
 - [首次尝试95%都是垃圾：一位工程师使用Claude Code的6周之旅](https://canace.site/translate-use-claude-code/)
 - [Notion+Chrome书签打造个人知识库](https://canace.site/personal-knowledge-base/)
-- [Vol15：初创项目/产品，怎么做用户留存](https://canace.site/issue-15/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

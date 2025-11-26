@@ -10,7 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
-- [为什么AI大模型需要“显卡”？TPU、GPU与AMD之间有什么区别？](https://canace.site/why-graphics-card/)
+- [为什么AI大模型需要“显卡”/TPU、GPU与AMD之间有什么区别](https://canace.site/why-graphics-card/)
 - [如何做AI角色分工：我的应用心得](https://canace.site/ai-worker/)
 - [工作与事业](https://canace.site/work-for/)
 - [浏览器渲染原理概述](https://canace.site/how-to-optimize-animation/)

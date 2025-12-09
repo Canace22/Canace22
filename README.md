@@ -10,8 +10,8 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Coding 如何写好项目规则](https://canace.site/writing-a-good-claude-md/)
-- [AI 协作编程在现有中大型项目中的落地实践](https://canace.site/ai-coding/)
+- [AI协作编程——如何写好项目规则](https://canace.site/writing-a-good-claude-md/)
+- [AI协作编程——传统IDE快速切换到AI IDE](https://canace.site/ai-coding-ide/)
 - [为什么AI大模型需要“显卡”/TPU、GPU与AMD之间有什么区别](https://canace.site/why-graphics-card/)
 - [如何做AI角色分工：我的应用心得](https://canace.site/ai-worker/)
 - [工作与事业](https://canace.site/work-for/)

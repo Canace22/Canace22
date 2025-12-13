@@ -10,6 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [AI赋能存量项目——从函数助手到业务伙伴](https://canace.site/ai-coding-share/)
 - [面向大模型编程&lpar;LOP&rpar;在游戏制作流程中的应用畅想](https://canace.site/ai-coding-game/)
 - [AI协作编程——如何写好项目规则](https://canace.site/writing-a-good-claude-md/)
 - [AI协作编程——传统IDE快速切换到AI IDE](https://canace.site/ai-coding-ide/)
@@ -19,7 +20,6 @@ The content below is my new blog
 - [浏览器渲染原理概述](https://canace.site/how-to-optimize-animation/)
 - [我们是否需要AI知识库](https://canace.site/AI-knowledge-base/)
 - [常用开发提示词](https://canace.site/common-programming-prompt-words/)
-- [博客文章分类](https://canace.site/blog-category/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

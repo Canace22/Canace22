@@ -10,6 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [解决 Cursor Debugger 模式在 Electron 项目中无法使用问题](https://canace.site/cursor-debugger/)
 - [使用 AI 优化界面交互](https://canace.site/ai-optimize-ui/)
 - [AI使人膨胀](https://canace.site/ai-expansion/)
 - [AI赋能存量项目——从函数助手到业务伙伴](https://canace.site/ai-coding-share/)
@@ -19,7 +20,6 @@ The content below is my new blog
 - [为什么AI大模型需要“显卡”/TPU、GPU与AMD之间有什么区别](https://canace.site/why-graphics-card/)
 - [如何做AI角色分工：我的应用心得](https://canace.site/ai-worker/)
 - [工作与事业](https://canace.site/work-for/)
-- [浏览器渲染原理概述](https://canace.site/how-to-optimize-animation/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

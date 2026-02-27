@@ -10,6 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Web 前端开发为什么要用框架](https://canace.site/why-frontend-needs-framework/)
 - [解决 Cursor Debugger 模式在 Electron 项目中无法使用问题](https://canace.site/cursor-debugger/)
 - [使用 AI 优化界面交互](https://canace.site/ai-optimize-ui/)
 - [AI使人膨胀](https://canace.site/ai-expansion/)
@@ -19,7 +20,6 @@ The content below is my new blog
 - [AI协作编程——传统IDE快速切换到AI IDE](https://canace.site/ai-coding-ide/)
 - [为什么AI大模型需要“显卡”/TPU、GPU与AMD之间有什么区别](https://canace.site/why-graphics-card/)
 - [如何做AI角色分工：我的应用心得](https://canace.site/ai-worker/)
-- [工作与事业](https://canace.site/work-for/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

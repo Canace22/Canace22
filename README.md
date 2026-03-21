@@ -10,7 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
-- [一种提升 Agent Coding 稳定性的思路](https://canace.site/agent-coding-stability/)
+- [一个提升 AI Coding 稳定性的思路](https://canace.site/agent-coding-stability/)
 - [Cursor 编写 SKILL：通过 Web 搜索并下载电影](https://canace.site/cursor-skill-web-search-download-movie/)
 - [千问点奶茶时弹出的 UI 是怎么实现的，是生成式 UI 吗](https://canace.site/qwen-milk-tea-ui/)
 - [Web 前端开发为什么要用框架](https://canace.site/why-frontend-needs-framework/)

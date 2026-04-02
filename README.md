@@ -10,6 +10,8 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 在打开新会话时，是如何有记忆的](https://canace.site/gemini-new-session-memory/)
+- [AI 让人变得无趣](https://canace.site/ai-make-you-boring/)
 - [为什么要写微信公众号](https://canace.site/why-write-wechat-official-account/)
 - [一个提升 AI Coding 稳定性的思路](https://canace.site/agent-coding-stability/)
 - [Cursor 编写 SKILL：通过 Web 搜索并下载电影](https://canace.site/cursor-skill-web-search-download-movie/)
@@ -18,8 +20,6 @@ The content below is my new blog
 - [解决 Cursor Debugger 模式在 Electron 项目中无法使用问题](https://canace.site/cursor-debugger/)
 - [使用 AI 优化界面交互](https://canace.site/ai-optimize-ui/)
 - [AI使人膨胀](https://canace.site/ai-expansion/)
-- [AI赋能存量项目——从函数助手到业务伙伴](https://canace.site/ai-coding-share/)
-- [面向大模型编程&lpar;LOP&rpar;在游戏制作流程中的应用畅想](https://canace.site/ai-coding-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

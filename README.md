@@ -10,6 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [为什么不要让LLM帮我们写文档](https://canace.site/why-not-let-ai-write-for-us/)
 - [使用大模型来维护知识库](https://canace.site/llm-wiki/)
 - [Gemini 在打开新会话时，是如何有记忆的](https://canace.site/gemini-new-session-memory/)
 - [AI 让人变得无趣](https://canace.site/ai-make-you-boring/)
@@ -19,7 +20,6 @@ The content below is my new blog
 - [千问点奶茶时弹出的 UI 是怎么实现的，是生成式 UI 吗](https://canace.site/qwen-milk-tea-ui/)
 - [Web 前端开发为什么要用框架](https://canace.site/why-frontend-needs-framework/)
 - [解决 Cursor Debugger 模式在 Electron 项目中无法使用问题](https://canace.site/cursor-debugger/)
-- [使用 AI 优化界面交互](https://canace.site/ai-optimize-ui/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

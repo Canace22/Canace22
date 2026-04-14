@@ -10,7 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
-- [产品更新、RSS 订阅以及文件 Diff 类需求实现模型](https://canace.site/product-updates-rss-file-diff-mental-model/)
+- [产品更新、RSS订阅以及文件diff类需求实现模型](https://canace.site/product-updates-rss-file-diff-mental-model/)
 - [RSS 推送到 TG 的可行性探索](https://canace.site/rss-telegram-selfhost/)
 - [为什么不要让LLM帮我们写文档](https://canace.site/why-not-let-ai-write-for-us/)
 - [使用大模型来维护知识库](https://canace.site/llm-wiki/)

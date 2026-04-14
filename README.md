@@ -10,6 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [产品更新、RSS 订阅以及文件 Diff 类需求实现模型](https://canace.site/product-updates-rss-file-diff-mental-model/)
 - [RSS 推送到 TG 的可行性探索](https://canace.site/rss-telegram-selfhost/)
 - [为什么不要让LLM帮我们写文档](https://canace.site/why-not-let-ai-write-for-us/)
 - [使用大模型来维护知识库](https://canace.site/llm-wiki/)
@@ -19,7 +20,6 @@ The content below is my new blog
 - [一个提升 AI Coding 稳定性的思路](https://canace.site/agent-coding-stability/)
 - [Cursor 编写 SKILL：通过 Web 搜索并下载电影](https://canace.site/cursor-skill-web-search-download-movie/)
 - [千问点奶茶时弹出的 UI 是怎么实现的，是生成式 UI 吗](https://canace.site/qwen-milk-tea-ui/)
-- [Web 前端开发为什么要用框架](https://canace.site/why-frontend-needs-framework/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

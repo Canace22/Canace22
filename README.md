@@ -10,6 +10,8 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [节奏心理学：叙事中的“情绪推手”](https://canace.site/rhythm-psychology/)
+- [叙事研究](https://canace.site/narrative-research/)
 - [OpenClaw 的一些使用体验](https://canace.site/openclaw-usage-experience/)
 - [产品更新、RSS订阅以及文件diff类需求实现模型](https://canace.site/product-updates-rss-file-diff-mental-model/)
 - [RSS 推送到 TG 的可行性探索](https://canace.site/rss-telegram-selfhost/)
@@ -18,8 +20,6 @@ The content below is my new blog
 - [Gemini 在打开新会话时，是如何有记忆的](https://canace.site/gemini-new-session-memory/)
 - [AI 让人变得无趣](https://canace.site/ai-make-you-boring/)
 - [为什么要写微信公众号](https://canace.site/why-write-wechat-official-account/)
-- [一个提升 AI Coding 稳定性的思路](https://canace.site/agent-coding-stability/)
-- [Cursor 编写 SKILL：通过 Web 搜索并下载电影](https://canace.site/cursor-skill-web-search-download-movie/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

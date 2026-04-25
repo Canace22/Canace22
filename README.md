@@ -10,7 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
-- [定时任务](https://canace.site/scheduled-tasks/)
+- [Openclaw定时任务](https://canace.site/scheduled-tasks/)
 - [节奏心理学：叙事中的“情绪推手”](https://canace.site/rhythm-psychology/)
 - [叙事研究](https://canace.site/narrative-research/)
 - [OpenClaw 的一些使用体验](https://canace.site/openclaw-usage-experience/)

@@ -10,6 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [RAG vs Graph RAG](https://canace.site/rag-vs-graph-rag/)
 - [LLM 训练的真相：Andrej Karpathy 的分享笔记](https://canace.site/llm-training-truth/)
 - [AI 如何让我们躺平](https://canace.site/how-ai-lets-us-lie-flat/)
 - [Openclaw定时任务](https://canace.site/scheduled-tasks/)
@@ -19,7 +20,6 @@ The content below is my new blog
 - [产品更新、RSS订阅以及文件diff类需求实现模型](https://canace.site/product-updates-rss-file-diff-mental-model/)
 - [RSS 推送到 TG 的可行性探索](https://canace.site/rss-telegram-selfhost/)
 - [为什么不要让LLM帮我们写文档](https://canace.site/why-not-let-ai-write-for-us/)
-- [使用大模型来维护知识库](https://canace.site/llm-wiki/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

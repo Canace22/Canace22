@@ -10,6 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Native 不是接个 API：我们踩坑总结的方法论](https://canace.site/ai-native/)
 - [跟 AI 说 Ok，它为什么有时不继续](https://canace.site/go-ahead-vs-continue-ai-chat/)
 - [程序员愿意为 Claude 写文档，但不愿为同事写](https://canace.site/claude-handoff-doc-to-repo/)
 - [RAG vs Graph RAG](https://canace.site/rag-vs-graph-rag/)
@@ -19,7 +20,6 @@ The content below is my new blog
 - [节奏心理学：叙事中的“情绪推手”](https://canace.site/rhythm-psychology/)
 - [叙事研究](https://canace.site/narrative-research/)
 - [OpenClaw 的一些使用体验](https://canace.site/openclaw-usage-experience/)
-- [产品更新、RSS订阅以及文件diff类需求实现模型](https://canace.site/product-updates-rss-file-diff-mental-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

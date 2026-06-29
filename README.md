@@ -10,6 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Vitest 笔记](https://canace.site/vitest-vs-jest-advantages/)
 - [原来我一直用错了 Cowork](https://canace.site/use-cowork/)
 - [AI Native 不是接个 API：我们踩坑总结的方法论](https://canace.site/ai-native/)
 - [跟 AI 说 Ok，它为什么有时不继续](https://canace.site/go-ahead-vs-continue-ai-chat/)
@@ -19,7 +20,6 @@ The content below is my new blog
 - [AI 如何让我们躺平](https://canace.site/how-ai-lets-us-lie-flat/)
 - [Openclaw定时任务](https://canace.site/scheduled-tasks/)
 - [节奏心理学：叙事中的“情绪推手”](https://canace.site/rhythm-psychology/)
-- [叙事研究](https://canace.site/narrative-research/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

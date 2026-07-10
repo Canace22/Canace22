@@ -10,6 +10,8 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [搞懂 GPT-5.6：Sol、Terra、Luna 和 Thinking Effort](https://canace.site/gpt-5-6-sol-terra-luna/)
+- [在 CLI 里用 Claude Design 做原型设计](https://canace.site/claude-design-cli-prototyping/)
 - [Vitest 笔记](https://canace.site/vitest-vs-jest-advantages/)
 - [原来我一直用错了 Cowork](https://canace.site/use-cowork/)
 - [AI Native 不是接个 API：我们踩坑总结的方法论](https://canace.site/ai-native/)
@@ -18,8 +20,6 @@ The content below is my new blog
 - [RAG vs Graph RAG](https://canace.site/rag-vs-graph-rag/)
 - [LLM 训练的真相：Andrej Karpathy 的分享笔记](https://canace.site/llm-training-truth/)
 - [AI 如何让我们躺平](https://canace.site/how-ai-lets-us-lie-flat/)
-- [Openclaw定时任务](https://canace.site/scheduled-tasks/)
-- [节奏心理学：叙事中的“情绪推手”](https://canace.site/rhythm-psychology/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

@@ -10,6 +10,8 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [我让 Claude 给视频里的人脸打码，顺手做成了一个 Skill](https://canace.site/video-face-mosaic-skill/)
+- [Claude Code 使用笔记](https://canace.site/claude-note/)
 - [我的 Vibe Coding 撞墙了，兄弟们](https://canace.site/vibe-coding-problem/)
 - [搞懂 GPT-5.6：Sol、Terra、Luna 和 Thinking Effort](https://canace.site/gpt-5-6-sol-terra-luna/)
 - [在 CLI 里用 Claude Design 做原型设计](https://canace.site/claude-design-cli-prototyping/)
@@ -18,8 +20,6 @@ The content below is my new blog
 - [AI Native 不是接个 API：我们踩坑总结的方法论](https://canace.site/ai-native/)
 - [跟 AI 说 Ok，它为什么有时不继续](https://canace.site/go-ahead-vs-continue-ai-chat/)
 - [程序员愿意为 Claude 写文档，但不愿为同事写](https://canace.site/claude-handoff-doc-to-repo/)
-- [RAG vs Graph RAG](https://canace.site/rag-vs-graph-rag/)
-- [LLM 训练的真相：Andrej Karpathy 的分享笔记](https://canace.site/llm-training-truth/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

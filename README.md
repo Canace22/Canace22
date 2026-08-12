@@ -10,6 +10,8 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [关于内容创作的一些思考](https://canace.site/content-create-thinking/)
+- [深入 Claude Code 的 Web 工具：WebFetch 与 WebSearch](https://canace.site/claude-webfetch/)
 - [AI 生成到 90% 突然断了：你的解决方案是？](https://canace.site/ai-stream-recovery/)
 - [我让 Claude 给视频里的人脸打码，顺手做成了一个 Skill](https://canace.site/video-face-mosaic-skill/)
 - [Claude Code 使用笔记](https://canace.site/claude-note/)
@@ -18,8 +20,6 @@ The content below is my new blog
 - [在 CLI 里用 Claude Design 做原型设计](https://canace.site/claude-design-cli-prototyping/)
 - [Vitest 笔记](https://canace.site/vitest-vs-jest-advantages/)
 - [原来我一直用错了 Cowork](https://canace.site/use-cowork/)
-- [AI Native 不是接个 API：我们踩坑总结的方法论](https://canace.site/ai-native/)
-- [跟 AI 说 Ok，它为什么有时不继续](https://canace.site/go-ahead-vs-continue-ai-chat/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

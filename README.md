@@ -10,6 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [笔记本都合上了，Claude 为什么还能在手机上执行电脑上装的技能？](https://canace.site/claude-skill-cross-device/)
 - [关于内容创作的一些思考](https://canace.site/content-create-thinking/)
 - [深入 Claude Code 的 Web 工具：WebFetch 与 WebSearch](https://canace.site/claude-webfetch/)
 - [AI 生成到 90% 突然断了：你的解决方案是？](https://canace.site/ai-stream-recovery/)
@@ -19,7 +20,6 @@ The content below is my new blog
 - [搞懂 GPT-5.6：Sol、Terra、Luna 和 Thinking Effort](https://canace.site/gpt-5-6-sol-terra-luna/)
 - [在 CLI 里用 Claude Design 做原型设计](https://canace.site/claude-design-cli-prototyping/)
 - [Vitest 笔记](https://canace.site/vitest-vs-jest-advantages/)
-- [原来我一直用错了 Cowork](https://canace.site/use-cowork/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

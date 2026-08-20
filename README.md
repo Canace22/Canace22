@@ -10,6 +10,8 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [一轮对话 Vibe Coding 出可直接上手玩的浏览器 3D 游戏](https://canace.site/word-2-game/)
+- [一个系统做得怎样，从来都不是技术问题](https://canace.site/good-system/)
 - [笔记本都合上了，Claude 为什么还能在手机上执行电脑上装的技能？](https://canace.site/claude-skill-cross-device/)
 - [关于内容创作的一些思考](https://canace.site/content-create-thinking/)
 - [深入 Claude Code 的 Web 工具：WebFetch 与 WebSearch](https://canace.site/claude-webfetch/)
@@ -18,8 +20,6 @@ The content below is my new blog
 - [Claude Code 使用笔记](https://canace.site/claude-note/)
 - [我的 Vibe Coding 撞墙了，兄弟们](https://canace.site/vibe-coding-problem/)
 - [搞懂 GPT-5.6：Sol、Terra、Luna 和 Thinking Effort](https://canace.site/gpt-5-6-sol-terra-luna/)
-- [在 CLI 里用 Claude Design 做原型设计](https://canace.site/claude-design-cli-prototyping/)
-- [Vitest 笔记](https://canace.site/vitest-vs-jest-advantages/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

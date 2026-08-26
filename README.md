@@ -10,6 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Codex Agent Harness 套壳实现自己的 AI 产品](https://canace.site/how-can-i-use-codex-harness/)
 - [如何开发一个有手感的赛车游戏 Demo](https://canace.site/fable-pixel-game-vibe-coding/)
 - [一轮对话 Vibe Coding 出可直接上手玩的浏览器 3D 游戏](https://canace.site/word-2-game/)
 - [一个系统做得怎样，从来都不是技术问题](https://canace.site/good-system/)
@@ -19,7 +20,6 @@ The content below is my new blog
 - [AI 生成到 90% 突然断了：你的解决方案是？](https://canace.site/ai-stream-recovery/)
 - [我让 Claude 给视频里的人脸打码，顺手做成了一个 Skill](https://canace.site/video-face-mosaic-skill/)
 - [Claude Code 使用笔记](https://canace.site/claude-note/)
-- [我的 Vibe Coding 撞墙了，兄弟们](https://canace.site/vibe-coding-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

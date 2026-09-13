@@ -10,6 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [模型是怎么一步步走向生产环境的](https://canace.site/llm-to-harness/)
 - [最新版 Codex 工作流的问题](https://canace.site/ai-self-awareness/)
 - [Vibe Coding 开了一堆会话，验收不过来](https://canace.site/ai-review-bottleneck/)
 - [Codex Agent Harness 套壳实现自己的 AI 产品](https://canace.site/how-can-i-use-codex-harness/)
@@ -19,7 +20,6 @@ The content below is my new blog
 - [笔记本都合上了，Claude 为什么还能在手机上执行电脑上装的技能？](https://canace.site/claude-skill-cross-device/)
 - [关于内容创作的一些思考](https://canace.site/content-create-thinking/)
 - [深入 Claude Code 的 Web 工具：WebFetch 与 WebSearch](https://canace.site/claude-webfetch/)
-- [AI 生成到 90% 突然断了：你的解决方案是？](https://canace.site/ai-stream-recovery/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

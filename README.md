@@ -10,6 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Cursor 的网络协议，为什么选 HTTP/1.1 才能用 Claude](https://canace.site/http-claude/)
 - [模型是怎么一步步走向生产环境的](https://canace.site/llm-to-harness/)
 - [最新版 Codex 工作流的问题](https://canace.site/ai-self-awareness/)
 - [Vibe Coding 开了一堆会话，验收不过来](https://canace.site/ai-review-bottleneck/)
@@ -19,7 +20,6 @@ The content below is my new blog
 - [一个系统做得怎样，从来都不是技术问题](https://canace.site/good-system/)
 - [笔记本都合上了，Claude 为什么还能在手机上执行电脑上装的技能？](https://canace.site/claude-skill-cross-device/)
 - [关于内容创作的一些思考](https://canace.site/content-create-thinking/)
-- [深入 Claude Code 的 Web 工具：WebFetch 与 WebSearch](https://canace.site/claude-webfetch/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

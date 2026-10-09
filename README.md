@@ -10,16 +10,16 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [三幕式与游戏设计](https://canace.site/three-act-and-game-design/)
+- [三幕式](https://canace.site/three-act-structure/)
+- [叙事内核与结构](https://canace.site/narrative-kernel-and-structure/)
+- [期待与兑现：张力的高点放在哪](https://canace.site/expectation-payoff-tension-peak/)
 - [如何解决 AI 信任问题：基于 2026 Stack Overflow 开发者调查](https://canace.site/ai-trust-verifiable-infra/)
 - [把项目文档写得人看得懂：AI 时代的维护指南](https://canace.site/docs-in-ai-date/)
 - [Prompt Caching 笔记：原理、命中策略和各家差异](https://canace.site/promt-cache/)
 - [Cursor 的网络协议，为什么选 HTTP/1.1 才能用 Claude](https://canace.site/http-claude/)
 - [模型是怎么一步步走向生产环境的](https://canace.site/llm-to-harness/)
 - [最新版 Codex 工作流的问题](https://canace.site/ai-self-awareness/)
-- [Vibe Coding 开了一堆会话，验收不过来](https://canace.site/ai-review-bottleneck/)
-- [Codex Agent Harness 套壳实现自己的 AI 产品](https://canace.site/how-can-i-use-codex-harness/)
-- [如何开发一个有手感的赛车游戏 Demo](https://canace.site/fable-pixel-game-vibe-coding/)
-- [一轮对话 Vibe Coding 出可直接上手玩的浏览器 3D 游戏](https://canace.site/word-2-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)

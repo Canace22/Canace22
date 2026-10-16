@@ -10,6 +10,7 @@ Here are a few things that describe me:
 The content below is my new blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Electron vs Tauri](https://canace.site/electron-vs-tauri/)
 - [如何关掉 Cursor 提交里自动加上的签名](https://canace.site/disable-cursor-commit-attribution/)
 - [三幕式与游戏设计](https://canace.site/three-act-and-game-design/)
 - [三幕式](https://canace.site/three-act-structure/)
@@ -19,7 +20,6 @@ The content below is my new blog
 - [把项目文档写得人看得懂：AI 时代的维护指南](https://canace.site/docs-in-ai-date/)
 - [Prompt Caching 笔记：原理、命中策略和各家差异](https://canace.site/promt-cache/)
 - [Cursor 的网络协议，为什么选 HTTP/1.1 才能用 Claude](https://canace.site/http-claude/)
-- [模型是怎么一步步走向生产环境的](https://canace.site/llm-to-harness/)
 <!-- BLOG-POST-LIST:END -->
 
 ![canace22 github stats](https://github-readme-stats.vercel.app/api?username=canace22&count_private=true&show_icons=true&theme=vue)
